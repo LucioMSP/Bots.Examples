@@ -1,0 +1,42 @@
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Bot Application.dll.config
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Bot Application.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Bot Application.pdb
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Autofac.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Chronic.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Bot.Builder.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Bot.Connector.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Rest.ClientRuntime.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Newtonsoft.Json.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.Net.Http.Formatting.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.Web.Http.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.Web.Http.WebHost.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Autofac.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Bot.Builder.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.Bot.Connector.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\Newtonsoft.Json.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.Net.Http.Formatting.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.Web.Http.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\System.Web.Http.WebHost.xml
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\obj\Debug\BotApplication.csprojAssemblyReference.cache
+C:\BotsApps\DemosX\BotApplication\BotApplication\obj\Debug\BotApplication.csproj.CoreCompileInputs.cache
+C:\BotsApps\DemosX\BotApplication\BotApplication\obj\Debug\BotApplication.csproj.CopyComplete
+C:\BotsApps\DemosX\BotApplication\BotApplication\obj\Debug\Bot Application.dll
+C:\BotsApps\DemosX\BotApplication\BotApplication\obj\Debug\Bot Application.pdb
